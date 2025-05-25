@@ -1,6 +1,6 @@
 # react-basics
 
-- `npx`: Allows you to run Node packages without installing them globally.
+<!-- - `npx`: Allows you to run Node packages without installing them globally.
 - `npx create-react-app new1`: Used to create a new React project (takes more time and creates a heavier setup, so it's mostly not used now).
 - `npm`: Node Package Manager, used to manage dependencies and run scripts.
 - Difference b/w React and React Vite:
@@ -15,3 +15,17 @@
 - Unnecessary files can be deleted to clean up the project.
 
 //Basic React setup, project creation, and cleanup completed.
+
+
+
+-react->core foundational library used to fetch references from it
+-reactdom->reacts implentation in web
+
+jsx-power
+-through javascript html elements can be rendered
+custom tags can be made9ex:<App/>
+(1st letter shld be capital)
+-can export only one element
+<>...</>for mul we can write like this(called as fragment process)
+-in 01basics also we can write mini.jsx instead of mini.js
+ -->
